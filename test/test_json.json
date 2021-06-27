@@ -1,0 +1,8 @@
+{
+
+    "ms_12.png24535":{"filename":"ms_12.png","size":24535,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[127,129,124,124],"all_points_y":[126,131,134,131]},"region_attributes":{"name":"not_defined","type":"unknown","image_quality":{"good":true,"frontal":true,"good_illumination":true}}}],"file_attributes":{"caption":"","public_domain":"no","image_url":""}},
+    "ms_13.png24543":{"filename":"ms_13.png","size":24543,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[144,148,148,143,147,147],"all_points_y":[121,127,137,137,131,128]},"region_attributes":{"name":"not_defined","type":"unknown","image_quality":{"good":true,"frontal":true,"good_illumination":true}}}],"file_attributes":{"caption":"","public_domain":"no","image_url":""}},
+    "ms_14.png24539":{"filename":"ms_14.png","size":24539,"regions":[{"shape_attributes":{"name":"polygon","all_points_x":[167,160,158,165,167],"all_points_y":[187,193,190,192,190]},"region_attributes":{"name":"not_defined","type":"unknown","image_quality":{"good":true,"frontal":true,"good_illumination":true}}}],"file_attributes":{"caption":"","public_domain":"no","image_url":""}},  
+    "ms_15.png24508":{"filename":"ms_15.png","size":24508,"regions":[],"file_attributes":{"caption":"","public_domain":"no","image_url":""}}
+
+}
